@@ -18,6 +18,16 @@
 
         <h3>bug fixed from master branch</h3>
 
+
+        <h2>table from branch 3</h2>
+        <table>
+            <thead>
+                <tr>
+                    <td>Phone 1 </td>
+                     <td>Phone 2 </td>
+                </tr>
+            </thead>
+        </table>
     </div>
     </form>
 </body>
