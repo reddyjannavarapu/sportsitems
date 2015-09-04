@@ -14,6 +14,8 @@
         <h2> the list pf Products </h2>
 
         <h3>bug fixed from master branch</h3>
+
+        <h1> table form Mater branch</h1>
     </div>
     </form>
 </body>
