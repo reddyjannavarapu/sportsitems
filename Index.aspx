@@ -18,6 +18,29 @@
 
         <h3>bug fixed from master branch</h3>
 
+
+        <table style="border-width:2px; border:solid">
+            <thead>
+                <tr>
+                    <td>Name</td>
+                    <td>Price</td>
+                </tr>
+            </thead>
+            <tbody>
+                 <tr>
+                    <td>Bat</td>
+                    <td>300</td>
+                </tr>
+                 <tr>
+                    <td>Boll</td>
+                    <td>30</td>
+                </tr>
+                 <tr>
+                    <td>Sticks</td>
+                    <td>100</td>
+                </tr>
+            </tbody>
+        </table>
     </div>
     </form>
 </body>
